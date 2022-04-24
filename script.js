@@ -90,9 +90,6 @@ var upperCasedCharacters = [
 
 function userOptions() {
   let choice = parseInt(prompt("How many characters are needed? (8-128 characters)"),10);
-  if (isNaN === true) {
-    return null;
-  }
 
   let uppCase = confirm("Would you like to include upper case letters?");
   
