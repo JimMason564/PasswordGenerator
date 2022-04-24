@@ -2,3 +2,6 @@ Readme
 
 This is a random password generator in which the user can select whether to include numbers, special characters, lower case, and upper case characters. They are also able to select how many characters they want the password to be between 8 and 128. If all options are declined, an alert will appear stating the user needs to pick a variable. Once this alert is cleared the user can click the generate password button again and restart the process.
 
+Screenshot of website can be found in repo.
+
+Link website: https://jimmason564.github.io/PasswordGenerator/
